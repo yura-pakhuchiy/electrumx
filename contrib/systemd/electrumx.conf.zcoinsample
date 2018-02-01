@@ -1,5 +1,5 @@
 COIN = Zcoin
-DAEMON_URL = http://YANNISCOOLUSER:YANNPASSISCOOL@localhost:8332/
+DAEMON_URL = http://YANNISCOOLUSER:YANNPASSISCOOL@localhost:8888/
 DB_DIRECTORY = /home/electrumx/.electrumx/
 DB_ENGINE = leveldb
 USERNAME = electrumx
