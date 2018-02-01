@@ -1,0 +1,9 @@
+Welcome to electrumx.zcoin.io, a Zcoin Electrum node sponsored by zcoin.io!
+Donation address: $DONATION_ADDRESS
+Zcoin Core $DAEMON_VERSION
+$VERSION
+If you would like to support this server you can donate by clicking
+	Help -> Donate to server
+in your Electrum Client or use $DONATION_ADDRESS directly.
+Thank you!
+Contact: support@zcoin.io
