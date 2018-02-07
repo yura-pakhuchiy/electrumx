@@ -242,6 +242,6 @@ LKaFk4KkVpw9pYoUpbckQSKKgCVC4oj78b
 .. _#277: https://github.com/kyuupichan/electrumx/issues/277
 .. _#287: https://github.com/kyuupichan/electrumx/issues/287
 .. _#302: https://github.com/kyuupichan/electrumx/issues/287
-.. _docs/HOWTO.rst: https://github.com/kyuupichan/electrumx/blob/master/docs/HOWTO.rst
-.. _docs/ENVIRONMENT.rst: https://github.com/kyuupichan/electrumx/blob/master/docs/ENVIRONMENT.rst
-.. _docs/PROTOCOL.rst: https://github.com/kyuupichan/electrumx/blob/master/docs/PROTOCOL.rst
+.. _docs/HOWTO.rst: https://github.com/sn-ntu/electrumx/blob/master/docs/HOWTO.rst
+.. _docs/ENVIRONMENT.rst: https://github.com/sn-ntu/electrumx/blob/master/docs/ENVIRONMENT.rst
+.. _docs/PROTOCOL.rst: https://github.com/sn-ntu/electrumx/blob/master/docs/PROTOCOL.rst
