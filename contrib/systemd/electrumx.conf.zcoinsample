@@ -7,7 +7,7 @@ ELECTRUMX = /home/electrumx/source/electrumx/electrumx_server.py
 HOST = 0.0.0.0
 
 ANON_LOGS = electrumx
-BANNER_FILE = /home/debian/.electrumx/banner.txt
+BANNER_FILE = /home/electrumx/.electrumx/banner.txt
 DONATION_ADDRESS = aCL1NKzbxpdYSpLa7TFfMFLoCENJuzgSmR
 
 CACHE_MB = 2048
