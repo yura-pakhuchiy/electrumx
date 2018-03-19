@@ -504,6 +504,21 @@ class Zcoin(Coin):
     REORG_LIMIT = 5000
 
 
+class ZcoinTestnet(Zcoin):
+    SHORTNAME = "tXZC"
+    NET = "testnet"
+    XPUB_VERBYTES = bytes.fromhex("043587cf")
+    XPRV_VERBYTES = bytes.fromhex("04358394")
+    P2PKH_VERBYTE = bytes.fromhex("41")
+    P2SH_VERBYTES = [bytes.fromhex("b2")]
+    WIF_BYTE = bytes.fromhex("b9")
+    GENESIS_HASH = ('7ac038c193c2158c428c59f9ae0c02a0'
+                    '7115141c6e9dc244ae96132e99b4e642')
+    REORG_LIMIT = 8000
+    RPC_PORT = 18888
+    PEER_DEFAULT_PORTS = {'t': '51001', 's': '51002'}
+
+
 class Emercoin(Coin):
     NAME = "Emercoin"
     SHORTNAME = "EMC"
